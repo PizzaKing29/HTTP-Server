@@ -1,0 +1,15 @@
+C:\Users\evant\My Code\HTTP Server\main\bin\Debug\net9.0\main.exe
+C:\Users\evant\My Code\HTTP Server\main\bin\Debug\net9.0\main.deps.json
+C:\Users\evant\My Code\HTTP Server\main\bin\Debug\net9.0\main.runtimeconfig.json
+C:\Users\evant\My Code\HTTP Server\main\bin\Debug\net9.0\main.dll
+C:\Users\evant\My Code\HTTP Server\main\bin\Debug\net9.0\main.pdb
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.AssemblyInfoInputs.cache
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.AssemblyInfo.cs
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.csproj.CoreCompileInputs.cache
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.sourcelink.json
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.dll
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\refint\main.dll
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.pdb
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\main.genruntimeconfig.cache
+C:\Users\evant\My Code\HTTP Server\main\obj\Debug\net9.0\ref\main.dll
